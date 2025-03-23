@@ -1,1 +1,1 @@
-# Emory-Communication-Hackathon
+# GlareGuard
